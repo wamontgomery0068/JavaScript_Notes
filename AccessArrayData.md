@@ -4,7 +4,7 @@
 
 **Example:**
 
-##var ourArray = [50,60,70];
+## var ourArray = [50,60,70];
 
 <br>
 
